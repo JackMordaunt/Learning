@@ -64,7 +64,7 @@ export default {
 .title-block {
         text-align: center;
         font-size: 2em;
-        padding-top: 10vh;
+        padding-top: 2vh;
 }
 
 .filters {
