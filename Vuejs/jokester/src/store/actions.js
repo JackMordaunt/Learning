@@ -1,5 +1,3 @@
-// https://08ad1pao69.execute-api.us-east-1.amazonaws.com/dev/random_ten
-
 import * as types from './mutation-types'
 
 const jokesEndpoint = 'https://08ad1pao69.execute-api.us-east-1.amazonaws.com/dev'
